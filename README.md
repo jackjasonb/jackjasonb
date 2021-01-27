@@ -1,3 +1,3 @@
 こんにちは。
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jackjasonb)
+[![](https://raw.githubusercontent.com/jackjasonb/jackjasonb/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
